@@ -1,3 +1,3 @@
 // INDEX.JS //
 
-console.log("HELLO WORLD")
+console.log("We're working with Git & Github!")
